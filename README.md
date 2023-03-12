@@ -28,4 +28,4 @@ Victory belongs to those who can say "Victory is mine". Success is the one who c
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzhanOksuz&show_icons=true&theme=radical)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanOksuz&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanOksuz&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
