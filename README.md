@@ -11,7 +11,7 @@ Victory belongs to those who can say "Victory is mine". Success is the one who c
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/wordpress.svg" align="left" />][web]
 
 [linkedin]: https://www.linkedin.com/in/o%C4%9Fuzhan-%C3%B6ks%C3%BCz-51854921b
-[web]: oguzhanoksuz0.com
+[web]: https://oguzhanoksuz0.com/
 
 <br />
 <br />
