@@ -16,7 +16,7 @@ Victory belongs to those who can say "Victory is mine". Success is the one who c
 <br />
 <br />
 
-## My skill sets
+## My skill sets :school_satchel:
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left"  height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
 
@@ -25,7 +25,7 @@ Victory belongs to those who can say "Victory is mine". Success is the one who c
 <br />
 <br />
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzhanOksuz&show_icons=true&theme=radical)
-<br />
+## My stats :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzhanOksuz&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzhanOksuz&show_icons=true&theme=radical)
